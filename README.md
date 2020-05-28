@@ -3,7 +3,7 @@ Solutions of the problems from the "Databases Basics - MS SQL Server" course at 
 The directoriThey are groupped in directories according to the course subject names.
 
 1. DATABASES INTRODUCTION:
-  <br>Data Management,
+  Data Management,
   Database Engine,
   Table Relationships,
   Programmability,
