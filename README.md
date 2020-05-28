@@ -3,17 +3,17 @@ Solutions of the problems from the "Databases Basics - MS SQL Server" course at 
 The directoriThey are groupped in directories according to the course subject names.
 
 1. DATABASES INTRODUCTION:
-  Data Management
-  Database Engine
-  Table Relationships
-  Programmability
-  Data Types
-  Database Modeling
-  Basic SQL Queries and Table Customization
+  <br>Data Management,
+  Database Engine,
+  Table Relationships,
+  Programmability,
+  Data Types,
+  Database Modeling,
+  Basic SQL Queries and Table Customization,
   Deleting Data and Structures
   
 2. CRUD:
-  Query Basics
-  Retrieving Data
-  Writing Data
-  Modifying Existing Records
+  Query Basics,
+  Retrieving Data,
+  Writing Data,
+  Modifying Existing Records,
