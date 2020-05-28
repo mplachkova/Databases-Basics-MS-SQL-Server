@@ -12,7 +12,7 @@ The directoriThey are groupped in directories according to the course subject na
   Basic SQL Queries and Table Customization
   Deleting Data and Structures
   
-2. CRUD
+2. CRUD:
   Query Basics
   Retrieving Data
   Writing Data
