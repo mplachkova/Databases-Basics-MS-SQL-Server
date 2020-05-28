@@ -1,6 +1,5 @@
 # SQLBasics
-Solutions of the problems from the "Databases Basics - MS SQL Server" course at Software Univesity, Sofia.
-The directoriThey are groupped in directories according to the course subject names.
+Directories are groupped according to the course subject names. A brief description for each subject content is written bellow.
 
 1. DATABASES INTRODUCTION:
   Data Management,
