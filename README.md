@@ -16,3 +16,9 @@ Directories are groupped according to the course subject names. A brief descript
   Retrieving Data,
   Writing Data,
   Modifying Existing Records,
+  
+3. Table Relations:
+  Database Design,
+  Table Relations,
+  Cascade Operations,
+  E/R Diagrams
