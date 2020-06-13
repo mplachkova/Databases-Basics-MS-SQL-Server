@@ -34,7 +34,8 @@ Write a query that selects:
     • FirstName
     • LastName
     • DepartmentName
-Sorted by EmployeeID in ascending order. Select only employees from "Sales" department.
+Sorted by EmployeeID in ascending order.
+Select only employees from "Sales" department.
 */
 
 SELECT EmployeeID, FirstName, LastName,Departments.[Name]
@@ -49,7 +50,8 @@ Write a query that selects:
     • FirstName
     • Salary
     • DepartmentName
-Filter only employees with salary higher than 15000. Return the first 5 rows sorted by DepartmentID in ascending order.
+Filter only employees with salary higher than 15000.
+Return the first 5 rows sorted by DepartmentID in ascending order.
 */
 
 SELECT TOP(5) EmployeeID, FirstName, Salary, Departments.[Name]
@@ -61,7 +63,8 @@ ORDER BY Employees.DepartmentID;
 /*Write a query that selects:
     • EmployeeID
     • FirstName
-Filter only employees without a project. Return the first 3 rows sorted by EmployeeID in ascending order.
+Filter only employees without a project.
+Return the first 3 rows sorted by EmployeeID in ascending order.
 */
 
 SELECT TOP (3) Employees.EmployeeID, FirstName
@@ -76,7 +79,8 @@ Write a query that selects:
     • LastName
     • HireDate
     • DeptName
-Filter only employees hired after 1.1.1999 and are from either "Sales" or "Finance" departments, sorted by HireDate (ascending).
+Filter only employees hired after 1.1.1999 and are from either "Sales" or "Finance" departments,
+sorted by HireDate (ascending).
 */
 
 SELECT FirstName, LastName, HireDate, Departments.[Name]
@@ -144,7 +148,8 @@ ORDER BY EmployeeID;
     • EmployeeName
     • ManagerName
     • DepartmentName
-Show first 50 employees with their managers and the departments they are in (show the departments of the employees). Order by EmployeeID.
+Show first 50 employees with their managers and the departments they are in (show the departments of the employees).
+Order by EmployeeID.
 */
 
 SELECT TOP (50)
