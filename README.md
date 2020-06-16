@@ -42,4 +42,5 @@ Directories are groupped according to the course subject names. A brief descript
   Aggregate Functions,
   Having Clause,
   Pivot Tables
+  
 7. Functions and Stored Procedures: User Defined Functions and Stored Procedures
